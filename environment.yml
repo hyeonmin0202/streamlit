@@ -5,13 +5,10 @@ dependencies:
   - python
   - numpy
   - pickle
+  - xgboost
+  - scikit-learn
+  - maplotlib
   - pip
   - pip:
-    - nbgitpuller
-    - sphinx-gallery
     - pandas
-    - matplotlib
-    - xgboost
-    - scikit-learn
     - scipy
-    - maplotlib
