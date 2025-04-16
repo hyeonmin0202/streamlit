@@ -8,7 +8,8 @@ dependencies:
   - pandas
   - scipy
   - scikit-learn
-  #- maplotlib
-  #- pip
-  #- pip:
-  #  - xgboost
+  - matplotlib
+  - pip
+  - pip:
+    - xgboost
+    - pickle
