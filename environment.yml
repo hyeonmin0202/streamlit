@@ -2,13 +2,13 @@ name: kpro
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python=3.10
   - numpy
+  - pandas
   - pickle
-  - xgboost
+  - scipy
   - scikit-learn
   - maplotlib
   - pip
   - pip:
-    - pandas
-    - scipy
+    - xgboost
