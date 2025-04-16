@@ -10,5 +10,5 @@ dependencies:
   - scikit-learn
   - maplotlib
   - pip
-  - pip:
-    - xgboost
+  #- pip:
+  #  - xgboost
