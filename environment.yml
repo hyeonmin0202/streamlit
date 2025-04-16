@@ -9,4 +9,6 @@ dependencies:
   - scipy
   - scikit-learn
   - matplotlib
+  - seaborn
+  - shap
   - xgboost
