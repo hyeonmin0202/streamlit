@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python
   - numpy
+  - pickle
   - pip
   - pip:
     - nbgitpuller
@@ -13,5 +14,4 @@ dependencies:
     - xgboost
     - scikit-learn
     - scipy
-    - pickle
     - maplotlib
