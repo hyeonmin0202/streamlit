@@ -1,0 +1,17 @@
+name: kpro
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - nbgitpuller
+    - sphinx-gallery
+    - pandas
+    - matplotlib
+    - xgboost
+    - scikit-learn
+    - scipy
+    - pickle
+    - maplotlib
