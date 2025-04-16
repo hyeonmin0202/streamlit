@@ -7,7 +7,7 @@ dependencies:
   - numpy
   - pandas
   - scipy
-  #- scikit-learn
+  - scikit-learn
   #- maplotlib
   #- pip
   #- pip:
