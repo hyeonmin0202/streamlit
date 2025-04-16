@@ -4,11 +4,11 @@ channels:
 dependencies:
   - python=3.10
   - ipython
-  - numpy
-  - pandas
-  - scipy
-  - scikit-learn
-  - maplotlib
-  - pip
+  #- numpy
+  #- pandas
+  #- scipy
+  #- scikit-learn
+  #- maplotlib
+  #- pip
   #- pip:
   #  - xgboost
